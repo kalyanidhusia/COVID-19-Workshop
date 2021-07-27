@@ -2,7 +2,7 @@
 
 ![pamplet_workshop](https://user-images.githubusercontent.com/47333209/127048462-6d4a799d-fda9-41cc-b1cf-d13726972163.png)
 
- "International e-workshop on  Exploring resources for  COVID-19 Research" starting from July 26th, 2021, to July 31, 2021. 
+International e-workshop on  Exploring resources for  COVID-19 Research" starting from July 26th, 2021, to July 31, 2021
 
 Website : https://sites.google.com/view/covid19workshop/home
 
